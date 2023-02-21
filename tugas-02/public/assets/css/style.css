@@ -1,0 +1,62 @@
+body {
+    background-color: #1b192e;
+}
+
+header {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    text-align: center;
+    background: #894af1;
+    color: white;
+}
+
+.card {
+    float: right;
+    width: 20%;
+    margin: auto;
+    margin-top: 10px;
+    padding: 5px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 10%;
+  }
+
+.title {
+    text-align: center;
+    font-size: 30px;
+}
+
+.picture {
+    width: 150px;
+    height: 200px;
+    margin: 100 auto;
+    display: flex;
+
+}
+
+table {
+    margin: auto;
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+th, td {
+    text-align: center;
+    padding: 10px;
+    color: white;
+    border: 1px solid white;
+}
+
+th {
+    background-color: #894af1;
+    color: white;
+}
+
+footer {
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
